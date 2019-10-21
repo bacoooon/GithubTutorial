@@ -11,6 +11,6 @@ while True:
     elif input_num == 1:
         print('プログラムを終了しません')
     elif input_num == 2:
-        print('プログラムを終了simasen')
+        print('プログラムを終了simasenen')
     else:
         print('該当するコマンドがありません')
